@@ -9,7 +9,7 @@
     "start": "node dist/index.js"
   },
   "keywords": [],
-  "author": "Hola Mundo Soy Jose A. Diaz G. c.i  30.626.814  Seccion 1",
+  "author": "Hola Mundo Soy Yonacet Seijas",
   "license": "ISC",
   "devDependencies": {
     "@types/express": "^4.17.14",
